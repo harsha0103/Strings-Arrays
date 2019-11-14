@@ -3,7 +3,7 @@ package Strings
 object sumArrayLessThanGivenNumber {
 // Simple way is to achieve it by using 3 loops each loop uses O(n3)
 //  Below example shows it
-
+//https://www.geeksforgeeks.org/count-triplets-with-sum-smaller-that-a-given-value/
 //if there is a sorted arry we can reduce the complexity O(n2)
   def main(args: Array[String]): Unit = {
 
